@@ -1,0 +1,20 @@
+2026-04-22 16:14:11,494 - ERROR - ❌ ETL Failed: fetch_weather() missing 1 required positional argument: 'city_id'
+2026-04-22 16:15:53,788 - ERROR - ❌ ETL Failed: fetch_weather() missing 1 required positional argument: 'city_id'
+2026-04-22 16:24:55,795 - ERROR - ❌ ETL Failed: table weather has no column named city
+2026-04-22 16:35:31,800 - ERROR - ❌ ETL Failed: table weather has no column named city
+2026-04-22 16:36:25,314 - ERROR - ❌ ETL Failed: table weather has no column named city
+2026-04-22 16:37:12,077 - ERROR - ❌ ETL Failed: table weather has no column named city
+2026-04-22 16:47:52,699 - ERROR - ❌ DB Error for city_id 1: table weather has no column named city
+2026-04-22 16:47:53,406 - ERROR - ❌ DB Error for city_id 2: table weather has no column named city
+2026-04-22 16:47:54,120 - ERROR - ❌ DB Error for city_id 3: table weather has no column named city
+2026-04-22 16:47:54,841 - ERROR - ❌ DB Error for city_id 4: table weather has no column named city
+2026-04-22 16:48:24,977 - ERROR - ❌ DB Error for city_id 1: table weather has no column named city
+2026-04-22 16:48:25,637 - ERROR - ❌ DB Error for city_id 2: table weather has no column named city
+2026-04-22 16:48:26,294 - ERROR - ❌ DB Error for city_id 3: table weather has no column named city
+2026-04-22 16:48:26,975 - ERROR - ❌ DB Error for city_id 4: table weather has no column named city
+2026-04-22 17:11:40,756 - ERROR - ❌ ETL Failed: table api_logs has no column named city_id
+2026-04-22 17:15:26,546 - ERROR - ❌ DB Error for Delhi: table weather has no column named city
+2026-04-22 17:15:27,417 - ERROR - ❌ DB Error for Mumbai: table weather has no column named city
+2026-04-22 17:15:28,301 - ERROR - ❌ DB Error for Chennai: table weather has no column named city
+2026-04-22 17:15:29,323 - ERROR - ❌ DB Error for Bangalore: table weather has no column named city
+2026-04-22 18:00:31,149 - ERROR - TEST: Error logger working
